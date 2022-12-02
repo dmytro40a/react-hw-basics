@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-hw-basics/static/css/main.5459f5dc.css",
+    "main.js": "/react-hw-basics/static/js/main.4582f9f5.js",
+    "static/js/787.f623ea0a.chunk.js": "/react-hw-basics/static/js/787.f623ea0a.chunk.js",
+    "static/media/photo-post.jpg": "/react-hw-basics/static/media/photo-post.724a40cc019dfbe1f49b.jpg",
+    "index.html": "/react-hw-basics/index.html",
+    "main.5459f5dc.css.map": "/react-hw-basics/static/css/main.5459f5dc.css.map",
+    "main.4582f9f5.js.map": "/react-hw-basics/static/js/main.4582f9f5.js.map",
+    "787.f623ea0a.chunk.js.map": "/react-hw-basics/static/js/787.f623ea0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5459f5dc.css",
+    "static/js/main.4582f9f5.js"
+  ]
+}
